@@ -80,62 +80,26 @@ If it is helpful for your work, please cite this paper:
 - Gcnet: Non-local networks meet squeeze-excitation networks and beyond (ICCVW 2019) [pdf](https://arxiv.org/pdf/1904.11492)   🔥 
 - Asymmetric non-local neural networks for semantic segmentation (ICCV 2019) [pdf](https://arxiv.org/pdf/1908.07678)   🔥 
 - **Looking for the devil in the details: Learning trilinear attention sampling network for fine-grained image recognition** (CVPR 2019) [pdf](https://arxiv.org/pdf/1903.06150) 
-- **Diagnose like a radiologist: Attention guided convolutional neural network for thorax disease classification **(arXiv 2019) [pdf](https://arxiv.org/pdf/1801.09927)
+- **Diagnose like a radiologist: Attention guided convolutional neural network for thorax disease classification**(arXiv 2019) [pdf](https://arxiv.org/pdf/1801.09927)
 - **Exploring self-attention for image recognition (CVPR 2020) [pdf](https://arxiv.org/pdf/2004.13621)**
 - Disentangled non-local neural networks (ECCV 2020) [pdf](https://arxiv.org/pdf/2006.06668) 
 - End-to-end object detection with transformers (ECCV 2020) [pdf](https://arxiv.org/pdf/2005.12872)   🔥 
 - An image is worth 16x16 words: Transformers for image recognition at scale (ICLR 2021) [pdf](https://arxiv.org/pdf/2010.11929)   🔥 
 - Is Attention Better Than Matrix Decomposition? (ICLR 2021) [pdf](https://arxiv.org/abs/2109.04553) 
 - Beit: Bert pre-training of image transformers (arxiv 2021) [pdf](https://arxiv.org/pdf/2106.08254)
-- **Beyond Self-attention: External attention using two linear layers for visual tasks **(arxiv 2021) [pdf](https://arxiv.org/pdf/2105.02358)
+- **Beyond Self-attention: External attention using two linear layers for visual tasks**(arxiv 2021) [pdf](https://arxiv.org/pdf/2105.02358)
 - Transformer in transformer (arxiv 2021) [pdf](https://arxiv.org/pdf/2103.00112)
 
-## Temporal attention
-
-- Jointly attentive spatial-temporal pooling networks for video-based person re-identification (ICCV 2017) [pdf](https://arxiv.org/pdf/1708.02286.pdf) 🔥
-- Video person reidentification with competitive snippet-similarity aggregation and co-attentive snippet embedding (CVPR 2018) [pdf](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1036.pdf)
-- Scan: Self-and-collaborative attention network for video person re-identification (TIP 2019) [pdf](https://arxiv.org/pdf/1807.05688.pdf) 
-
-## Branch attention
-
-- Training very deep networks (NeurIPS 2015) [pdf](https://arxiv.org/pdf/1507.06228.pdf) 🔥
-- Selective kernel networks (CVPR 2019) [pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Selective_Kernel_Networks_CVPR_2019_paper.pdf) 🔥
-- CondConv: Conditionally Parameterized Convolutions for Efficient Inference (NeurIPS 2019) [pdf](https://arxiv.org/pdf/1904.04971.pdf)
-- Dynamic convolution: Attention over convolution kernels (CVPR 2020) [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Dynamic_Convolution_Attention_Over_Convolution_Kernels_CVPR_2020_paper.pdf)
-- ResNest: Split-attention networks (arXiv 2020) [pdf](https://arxiv.org/pdf/2004.08955.pdf) 🔥
 
 ## ChannelSpatial attention
 
-- Residual attention network for image classification (CVPR 2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Residual_Attention_Network_CVPR_2017_paper.pdf) 🔥
-- SCA-CNN: spatial and channel-wise attention in convolutional networks for image captioning (CVPR 2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_SCA-CNN_Spatial_and_CVPR_2017_paper.pdf) 🔥
-- CBAM: convolutional block attention module (ECCV 2018) [pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)  🔥
-- Harmonious attention network for person re-identification (CVPR 2018) [pdf](https://arxiv.org/pdf/1802.08122.pdf) 🔥
+- **Residual attention network for image classification** (CVPR 2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Residual_Attention_Network_CVPR_2017_paper.pdf) 🔥
+- **SCA-CNN: spatial and channel-wise attention in convolutional networks for image captioning** (CVPR 2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_SCA-CNN_Spatial_and_CVPR_2017_paper.pdf) 🔥
+- **CBAM: convolutional block attention module** (ECCV 2018) [pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)  🔥
 - Recalibrating fully convolutional networks with spatial and channel “squeeze and excitation” blocks (TMI 2018) [pdf](https://arxiv.org/pdf/1808.08127.pdf)
-- Mancs: A multi-task attentional network with curriculum sampling for person re-identification (ECCV 2018) [pdf](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Cheng_Wang_Mancs_A_Multi-task_ECCV_2018_paper.pdf) 🔥
 - Bam: Bottleneck attention module(BMVC 2018) [pdf](http://bmvc2018.org/contents/papers/0092.pdf) 🔥
-- Pvnet: A joint convolutional network of point cloud and multi-view for 3d shape recognition (ACM MM 2018) [pdf](https://arxiv.org/pdf/1808.07659.pdf)  
 - Learning what and where to attend (ICLR 2019) [pdf](https://openreview.net/pdf?id=BJgLg3R9KQ)
-- Dual attention network for scene segmentation (CVPR 2019) [pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fu_Dual_Attention_Network_for_Scene_Segmentation_CVPR_2019_paper.pdf) 🔥
-- Abd-net: Attentive but diverse person re-identification (ICCV 2019) [pdf](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_ABD-Net_Attentive_but_Diverse_Person_Re-Identification_ICCV_2019_paper.pdf)
-- Mixed high-order attention network for person re-identification (ICCV 2019) [pdf](https://arxiv.org/pdf/1908.05819.pdf)
-- Mlcvnet: Multi-level context votenet for 3d object detection (CVPR 2020) [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xie_MLCVNet_Multi-Level_Context_VoteNet_for_3D_Object_Detection_CVPR_2020_paper.pdf)
-- Improving convolutional networks with self-calibrated convolutions (CVPR 2020) [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Improving_Convolutional_Networks_With_Self-Calibrated_Convolutions_CVPR_2020_paper.pdf)
-- Relation-aware global attention for person re-identification (CVPR 2020) [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Relation-Aware_Global_Attention_for_Person_Re-Identification_CVPR_2020_paper.pdf)
+- **Improving convolutional networks with self-calibrated convolutions**(CVPR 2020) [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Improving_Convolutional_Networks_With_Self-Calibrated_Convolutions_CVPR_2020_paper.pdf)
 - Strip Pooling: Rethinking spatial pooling for scene parsing (CVPR 2020) [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hou_Strip_Pooling_Rethinking_Spatial_Pooling_for_Scene_Parsing_CVPR_2020_paper.pdf)
 - Rotate to attend: Convolutional triplet attention module, (WACV 2021) [pdf](https://arxiv.org/pdf/2010.03045.pdf)
-- Coordinate attention for efficient mobile network design (CVPR 2021) [pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Coordinate_Attention_for_Efficient_Mobile_Network_Design_CVPR_2021_paper.pdf)
 - Simam: A simple, parameter-free attention module for convolutional neural networks (ICML 2021) [pdf](http://proceedings.mlr.press/v139/yang21o/yang21o.pdf)
-
-## SpatialTemporal attention
-
-- An end-to-end spatio-temporal attention model for human action recognition from skeleton data (AAAI 2017) [pdf](https://arxiv.org/pdf/1611.06067.pdf) 🔥
-- Diversity regularized spatiotemporal attention for video-based person re-identification (arXiv 2018) 🔥
-- Interpretable spatio-temporal attention for video action recognition (ICCVW 2019) [pdf](https://openaccess.thecvf.com/content_ICCVW_2019/papers/HVU/Meng_Interpretable_Spatio-Temporal_Attention_for_Video_Action_Recognition_ICCVW_2019_paper.pdf)
-- A Simple Baseline for Audio-Visual Scene-Aware Dialog (CVPR 2019) [pdf](https://arxiv.org/pdf/1904.05876v1.pdf)
-- Hierarchical lstms with adaptive attention for visual captioning (TPAMI 2020) [pdf](https://arxiv.org/pdf/1812.11004.pdf)
-- Stat: Spatial-temporal attention mechanism for video captioning, (TMM 2020) [pdf](https://ieeexplore.ieee.org/abstract/document/8744407)
-- Gta: Global temporal attention for video action understanding (arXiv 2020) [pdf](https://arxiv.org/pdf/2012.08510.pdf)
-- Multi-granularity reference-aided attentive feature aggregation for video-based person re-identification (CVPR 2020) [pdf](https://arxiv.org/pdf/2003.12224.pdf)
-- Read: Reciprocal attention discriminator for image-to-video re-identification (ECCV 2020) [pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590324.pdf)
-- Decoupled spatial-temporal transformer for video inpainting (arXiv 2021) [pdf](https://arxiv.org/pdf/2104.06637.pdf)
-- Towards Coherent Visual Storytelling with Ordered Image Attention (arXiv 2021) [pdf](https://arxiv.org/pdf/2108.02180)
