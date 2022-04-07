@@ -63,19 +63,12 @@ If it is helpful for your work, please cite this paper:
 ## Spatial attention
 
 - Recurrent models of visual attention (NeurIPS 2014), [pdf](https://arxiv.org/pdf/1406.6247)   🔥 
-- Show, attend and tell: Neural image caption generation with visual attention (PMLR 2015) [pdf](https://arxiv.org/pdf/1502.03044)   🔥 
-- Draw: A recurrent neural network for image generation (ICML 2015) [pdf](https://arxiv.org/pdf/1502.04623)   🔥 
 - Spatial transformer networks (NeurIPS 2015) [pdf](https://arxiv.org/pdf/1506.02025)   🔥 
 - Multiple object recognition with visual attention (ICLR 2015) [pdf](https://arxiv.org/pdf/1412.7755)   🔥 
-- Action recognition using visual attention (arXiv 2015) [pdf](https://arxiv.org/pdf/1511.04119)   🔥 
-- Videolstm convolves, attends and flows for action recognition (arXiv 2016) [pdf](https://arxiv.org/pdf/1607.01794)   🔥 
 - Look closer to see better: Recurrent attention convolutional neural network for fine-grained image recognition (CVPR 2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf)   🔥 
 - Learning multi-attention convolutional neural network for fine-grained image recognition (ICCV 2017) [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf)   🔥 
 - Diversified visual attention networks for fine-grained object classification (TMM 2017) [pdf](https://arxiv.org/pdf/1606.08572)   🔥 
-- High-Order Attention Models for Visual Question Answering (NeurIPS 2017) [pdf](https://arxiv.org/pdf/1711.04323)
-- Attentional pooling for action recognition (NeurIPS 2017) [pdf](https://arxiv.org/pdf/1711.01467)   🔥 
 - Non-local neural networks (CVPR 2018) [pdf](https://arxiv.org/pdf/1711.07971)   🔥 
-- Attentional shapecontextnet for point cloud recognition (CVPR 2018) [pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xie_Attentional_ShapeContextNet_for_CVPR_2018_paper.pdf) 
 - Relation networks for object detection (CVPR 2018) [pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Relation_Networks_for_CVPR_2018_paper.pdf)   🔥 
 - a2-nets: Double attention networks (NeurIPS 2018) [pdf](https://arxiv.org/pdf/1810.11579)   🔥 
 - Attention-aware compositional network for person re-identification (CVPR 2018) [pdf](https://arxiv.org/pdf/1805.03344)   🔥 
