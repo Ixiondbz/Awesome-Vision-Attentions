@@ -71,7 +71,7 @@ If it is helpful for your work, please cite this paper:
 - Non-local neural networks (CVPR 2018) [pdf](https://arxiv.org/pdf/1711.07971)   🔥 
 - Relation networks for object detection (CVPR 2018) [pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Relation_Networks_for_CVPR_2018_paper.pdf)   🔥 
 - **a2-nets: Double attention networks (NeurIPS 2018)** [pdf](https://arxiv.org/pdf/1810.11579)   🔥 
-- **Tell me where to look: Guided attention inference network **(CVPR 2018) [pdf](https://arxiv.org/pdf/1802.10171)   🔥 
+- **Tell me where to look: Guided attention inference network**(CVPR 2018) [pdf](https://arxiv.org/pdf/1802.10171)   🔥 
 - Learn to pay attention (ICLR 2018) [pdf](https://arxiv.org/pdf/1804.02391.pdf)   🔥
 - **Attention U-Net: Learning Where to Look for the Pancreas** (MIDL 2018) [pdf](https://arxiv.org/pdf/1804.03999.pdf)   🔥
 - **Attention augmented convolutional networks** (ICCV 2019) [pdf](https://arxiv.org/pdf/1904.09925)   🔥 
