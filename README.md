@@ -46,11 +46,11 @@ If it is helpful for your work, please cite this paper:
 
 ## Channel attention
 
-* Squeeze-and-Excitation Networks (CVPR 2018) [pdf](https://arxiv.org/pdf/1709.01507), (PAMI2019 version) [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8701503)  🔥 
+* (**IMPLEMENTED**) Squeeze-and-Excitation Networks (CVPR 2018) [pdf](https://arxiv.org/pdf/1709.01507), (PAMI2019 version) [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8701503)  🔥
 * Image superresolution using very deep residual channel attention networks (ECCV 2018) [pdf](https://arxiv.org/pdf/1807.02758)   🔥 
 * Context encoding for semantic segmentation (CVPR 2018) [pdf](https://arxiv.org/pdf/1803.08904)   🔥 
 * Spatio-temporal channel correlation networks for action classification (ECCV 2018)  [pdf](https://arxiv.org/pdf/1806.07754)
-* Global second-order pooling convolutional networks (CVPR 2019) [pdf](https://arxiv.org/pdf/1811.12006)
+* (**IMPLEMENTED**) Global second-order pooling convolutional networks (CVPR 2019) [pdf](https://arxiv.org/pdf/1811.12006)
 * Srm : A style-based recalibration module for convolutional neural networks (ICCV 2019)  [pdf](https://arxiv.org/pdf/1903.10829) 
 * You look twice: Gaternet for dynamic filter selection in cnns (CVPR 2019)  [pdf](https://arxiv.org/pdf/1811.11205)
 * Second-order attention network for single image super-resolution (CVPR 2019) [pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.pdf)  🔥 
