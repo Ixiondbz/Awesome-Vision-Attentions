@@ -70,10 +70,10 @@ If it is helpful for your work, please cite this paper:
 - Diversified visual attention networks for fine-grained object classification (TMM 2017) [pdf](https://arxiv.org/pdf/1606.08572)   🔥 
 - Non-local neural networks (CVPR 2018) [pdf](https://arxiv.org/pdf/1711.07971)   🔥 
 - Relation networks for object detection (CVPR 2018) [pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Relation_Networks_for_CVPR_2018_paper.pdf)   🔥 
-- ** a2-nets: Double attention networks (NeurIPS 2018)** [pdf](https://arxiv.org/pdf/1810.11579)   🔥 
+- **a2-nets: Double attention networks (NeurIPS 2018)** [pdf](https://arxiv.org/pdf/1810.11579)   🔥 
 - **Tell me where to look: Guided attention inference network **(CVPR 2018) [pdf](https://arxiv.org/pdf/1802.10171)   🔥 
 - Learn to pay attention (ICLR 2018) [pdf](https://arxiv.org/pdf/1804.02391.pdf)   🔥
-- ** Attention U-Net: Learning Where to Look for the Pancreas** (MIDL 2018) [pdf](https://arxiv.org/pdf/1804.03999.pdf)   🔥
+- **Attention U-Net: Learning Where to Look for the Pancreas** (MIDL 2018) [pdf](https://arxiv.org/pdf/1804.03999.pdf)   🔥
 - **Attention augmented convolutional networks** (ICCV 2019) [pdf](https://arxiv.org/pdf/1904.09925)   🔥 
 - Local relation networks for image recognition(Swin Transformers) (ICCV 2019) [pdf](https://arxiv.org/pdf/1904.11491)
 - Latentgnn: Learning efficient nonlocal relations for visual recognition (ICML 2019) [pdf](https://arxiv.org/pdf/1905.11634)
@@ -81,12 +81,8 @@ If it is helpful for your work, please cite this paper:
 - Asymmetric non-local neural networks for semantic segmentation (ICCV 2019) [pdf](https://arxiv.org/pdf/1908.07678)   🔥 
 - **Looking for the devil in the details: Learning trilinear attention sampling network for fine-grained image recognition** (CVPR 2019) [pdf](https://arxiv.org/pdf/1903.06150) 
 - **Diagnose like a radiologist: Attention guided convolutional neural network for thorax disease classification **(arXiv 2019) [pdf](https://arxiv.org/pdf/1801.09927)
--** Exploring self-attention for image recognition (CVPR 2020) [pdf](https://arxiv.org/pdf/2004.13621)**
+- **Exploring self-attention for image recognition (CVPR 2020) [pdf](https://arxiv.org/pdf/2004.13621)**
 - Disentangled non-local neural networks (ECCV 2020) [pdf](https://arxiv.org/pdf/2006.06668) 
-- Relation-aware global attention for person re-identification (CVPR 2020) [pdf](https://arxiv.org/pdf/1904.02998)
-- Segmentation transformer: Object-contextual representations for semantic segmentation (ECCV 2020) [pdf](https://arxiv.org/pdf/1909.11065)   🔥 
-- Spatial pyramid based graph reasoning for semantic segmentation (CVPR 2020) [pdf](https://arxiv.org/pdf/2003.10211)
-- Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation (CVPR 2020) [pdf](https://arxiv.org/pdf/2004.04581.pdf)
 - End-to-end object detection with transformers (ECCV 2020) [pdf](https://arxiv.org/pdf/2005.12872)   🔥 
 - An image is worth 16x16 words: Transformers for image recognition at scale (ICLR 2021) [pdf](https://arxiv.org/pdf/2010.11929)   🔥 
 - Is Attention Better Than Matrix Decomposition? (ICLR 2021) [pdf](https://arxiv.org/abs/2109.04553) 
