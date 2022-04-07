@@ -70,52 +70,28 @@ If it is helpful for your work, please cite this paper:
 - Diversified visual attention networks for fine-grained object classification (TMM 2017) [pdf](https://arxiv.org/pdf/1606.08572)   🔥 
 - Non-local neural networks (CVPR 2018) [pdf](https://arxiv.org/pdf/1711.07971)   🔥 
 - Relation networks for object detection (CVPR 2018) [pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Relation_Networks_for_CVPR_2018_paper.pdf)   🔥 
-- a2-nets: Double attention networks (NeurIPS 2018) [pdf](https://arxiv.org/pdf/1810.11579)   🔥 
-- Attention-aware compositional network for person re-identification (CVPR 2018) [pdf](https://arxiv.org/pdf/1805.03344)   🔥 
-- Tell me where to look: Guided attention inference network (CVPR 2018) [pdf](https://arxiv.org/pdf/1802.10171)   🔥 
-- Pedestrian alignment network for large-scale person re-identification (TCSVT 2018) [pdf](https://arxiv.org/pdf/1707.00408)   🔥 
+- ** a2-nets: Double attention networks (NeurIPS 2018)** [pdf](https://arxiv.org/pdf/1810.11579)   🔥 
+- **Tell me where to look: Guided attention inference network **(CVPR 2018) [pdf](https://arxiv.org/pdf/1802.10171)   🔥 
 - Learn to pay attention (ICLR 2018) [pdf](https://arxiv.org/pdf/1804.02391.pdf)   🔥
-- Attention U-Net: Learning Where to Look for the Pancreas (MIDL 2018) [pdf](https://arxiv.org/pdf/1804.03999.pdf)   🔥
-- Psanet: Point-wise spatial attention network for scene parsing (ECCV 2018) [pdf](https://openaccess.thecvf.com/content_ECCV_2018/html/Hengshuang_Zhao_PSANet_Point-wise_Spatial_ECCV_2018_paper.html)   🔥 
-- Self attention generative adversarial networks (ICML 2019) [pdf](https://arxiv.org/pdf/1805.08318)   🔥 
-- Attentional pointnet for 3d-object detection in point clouds (CVPRW 2019) [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/papers/WAD/Paigwar_Attentional_PointNet_for_3D-Object_Detection_in_Point_Clouds_CVPRW_2019_paper.pdf)
-- Co-occurrent features in semantic segmentation (CVPR 2019) [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Co-Occurrent_Features_in_Semantic_Segmentation_CVPR_2019_paper.pdf)
-- Factor Graph Attention (CVPR 2019) [pdf](https://arxiv.org/pdf/1904.05880)
-- Attention augmented convolutional networks (ICCV 2019) [pdf](https://arxiv.org/pdf/1904.09925)   🔥 
-- Local relation networks for image recognition (ICCV 2019) [pdf](https://arxiv.org/pdf/1904.11491)
-- Latentgnn: Learning efficient nonlocal relations for visual recognition(ICML 2019) [pdf](https://arxiv.org/pdf/1905.11634)
-- Graph-based global reasoning networks (CVPR 2019) [pdf](https://arxiv.org/pdf/1811.12814)   🔥 
+- ** Attention U-Net: Learning Where to Look for the Pancreas** (MIDL 2018) [pdf](https://arxiv.org/pdf/1804.03999.pdf)   🔥
+- **Attention augmented convolutional networks** (ICCV 2019) [pdf](https://arxiv.org/pdf/1904.09925)   🔥 
+- Local relation networks for image recognition(Swin Transformers) (ICCV 2019) [pdf](https://arxiv.org/pdf/1904.11491)
+- Latentgnn: Learning efficient nonlocal relations for visual recognition (ICML 2019) [pdf](https://arxiv.org/pdf/1905.11634)
 - Gcnet: Non-local networks meet squeeze-excitation networks and beyond (ICCVW 2019) [pdf](https://arxiv.org/pdf/1904.11492)   🔥 
 - Asymmetric non-local neural networks for semantic segmentation (ICCV 2019) [pdf](https://arxiv.org/pdf/1908.07678)   🔥 
-- Looking for the devil in the details: Learning trilinear attention sampling network for fine-grained image recognition (CVPR 2019) [pdf](https://arxiv.org/pdf/1903.06150) 
-- Second-order non-local attention networks for person re-identification (ICCV 2019) [pdf](https://arxiv.org/pdf/1909.00295)   🔥 
-- End-to-end comparative attention networks for person re-identification (ICCV 2019) [pdf](https://arxiv.org/pdf/1606.04404)   🔥 
-- Modeling point clouds with self-attention and gumbel subset sampling (CVPR 2019) [pdf](https://arxiv.org/pdf/1904.03375)
-- Diagnose like a radiologist: Attention guided convolutional neural network for thorax disease classification (arXiv 2019) [pdf](https://arxiv.org/pdf/1801.09927)
-- L2g autoencoder: Understanding point clouds by local-to-global reconstruction with hierarchical self-attention (arXiv 2019) [pdf](https://arxiv.org/pdf/1908.00720)
-- Generative pretraining from pixels (PMLR 2020) [pdf](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
-- Exploring self-attention for image recognition (CVPR 2020) [pdf](https://arxiv.org/pdf/2004.13621)
-- Cf-sis: Semantic-instance segmentation of 3d point clouds by context fusion with self attention (ACM MM 20) [pdf](https://dl.acm.org/doi/pdf/10.1145/3394171.3413829)
+- **Looking for the devil in the details: Learning trilinear attention sampling network for fine-grained image recognition** (CVPR 2019) [pdf](https://arxiv.org/pdf/1903.06150) 
+- **Diagnose like a radiologist: Attention guided convolutional neural network for thorax disease classification **(arXiv 2019) [pdf](https://arxiv.org/pdf/1801.09927)
+-** Exploring self-attention for image recognition (CVPR 2020) [pdf](https://arxiv.org/pdf/2004.13621)**
 - Disentangled non-local neural networks (ECCV 2020) [pdf](https://arxiv.org/pdf/2006.06668) 
 - Relation-aware global attention for person re-identification (CVPR 2020) [pdf](https://arxiv.org/pdf/1904.02998)
 - Segmentation transformer: Object-contextual representations for semantic segmentation (ECCV 2020) [pdf](https://arxiv.org/pdf/1909.11065)   🔥 
 - Spatial pyramid based graph reasoning for semantic segmentation (CVPR 2020) [pdf](https://arxiv.org/pdf/2003.10211)
 - Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation (CVPR 2020) [pdf](https://arxiv.org/pdf/2004.04581.pdf)
 - End-to-end object detection with transformers (ECCV 2020) [pdf](https://arxiv.org/pdf/2005.12872)   🔥 
-- Pointasnl: Robust point clouds processing using nonlocal neural networks with adaptive sampling (CVPR 2020) [pdf](https://arxiv.org/pdf/2003.00492)
-- Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers (CVPR 2021) [pdf](https://arxiv.org/pdf/2012.15840)
 - An image is worth 16x16 words: Transformers for image recognition at scale (ICLR 2021) [pdf](https://arxiv.org/pdf/2010.11929)   🔥 
 - Is Attention Better Than Matrix Decomposition? (ICLR 2021) [pdf](https://arxiv.org/abs/2109.04553) 
-- An empirical study of training selfsupervised vision transformers (CVPR 2021) [pdf](https://arxiv.org/pdf/2104.02057)
-- Ocnet: Object context network for scene parsing (IJCV 2021) [pdf](https://arxiv.org/pdf/1809.00916)   🔥 
-- Point transformer (ICCV 2021) [pdf](https://arxiv.org/pdf/2012.09164)
-- PCT: Point Cloud Transformer (CVMJ 2021) [pdf](https://arxiv.org/pdf/2012.09688.pdf)
-- Pre-trained image processing transformer (CVPR 2021) [pdf](https://arxiv.org/pdf/2012.00364)
-- An empirical study of training self-supervised vision transformers (ICCV 2021) [pdf](https://arxiv.org/pdf/2104.02057)
-- Segformer: Simple and efficient design for semantic segmentation with transformers (arxiv 2021) [pdf](https://arxiv.org/pdf/2105.15203)
 - Beit: Bert pre-training of image transformers (arxiv 2021) [pdf](https://arxiv.org/pdf/2106.08254)
-- Beyond Self-attention: External attention using two linear layers for visual tasks (arxiv 2021) [pdf](https://arxiv.org/pdf/2105.02358)
-- Query2label: A simple transformer way to multi-label classification (arxiv 2021) [pdf](https://arxiv.org/pdf/2107.10834)
+- **Beyond Self-attention: External attention using two linear layers for visual tasks **(arxiv 2021) [pdf](https://arxiv.org/pdf/2105.02358)
 - Transformer in transformer (arxiv 2021) [pdf](https://arxiv.org/pdf/2103.00112)
 
 ## Temporal attention
