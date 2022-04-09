@@ -56,7 +56,7 @@ If it is helpful for your work, please cite this paper:
 * Second-order attention network for single image super-resolution (CVPR 2019) [pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.pdf)  🔥 
 * DIANet: Dense-and-Implicit Attention Network (AAAI 2020)[pdf](https://arxiv.org/pdf/1905.10671.pdf)
 * Spsequencenet: Semantic segmentation network on 4d point clouds (CVPR 2020)  [pdf](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_SpSequenceNet_Semantic_Segmentation_Network_on_4D_Point_Clouds_CVPR_2020_paper.html)
-* Ecanet: Efficient channel attention for deep convolutional neural networks (CVPR 2020) [pdf](https://arxiv.org/pdf/1910.03151)   🔥 
+* (**IMPLEMENTED**)Ecanet: Efficient channel attention for deep convolutional neural networks (CVPR 2020) [pdf](https://arxiv.org/pdf/1910.03151)   🔥 
 * Gated channel transformation for visual recognition (CVPR2020)  [pdf](https://arxiv.org/pdf/1909.11519) 
 * Fcanet: Frequency channel attention networks (ICCV 2021)  [pdf](https://arxiv.org/pdf/2012.11879)
 
