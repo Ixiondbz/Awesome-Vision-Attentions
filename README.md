@@ -98,7 +98,7 @@ If it is helpful for your work, please cite this paper:
 - Recalibrating fully convolutional networks with spatial and channel “squeeze and excitation” blocks (TMI 2018) [pdf](https://arxiv.org/pdf/1808.08127.pdf)
 - Bam: Bottleneck attention module(BMVC 2018) [pdf](http://bmvc2018.org/contents/papers/0092.pdf) 🔥
 - Learning what and where to attend (ICLR 2019) [pdf](https://openreview.net/pdf?id=BJgLg3R9KQ)
-- **Improving convolutional networks with self-calibrated convolutions**(CVPR 2020) [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Improving_Convolutional_Networks_With_Self-Calibrated_Convolutions_CVPR_2020_paper.pdf)
+- **(IMPLEMENTED)Improving convolutional networks with self-calibrated convolutions**(CVPR 2020) [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Improving_Convolutional_Networks_With_Self-Calibrated_Convolutions_CVPR_2020_paper.pdf)
 - Strip Pooling: Rethinking spatial pooling for scene parsing (CVPR 2020) [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hou_Strip_Pooling_Rethinking_Spatial_Pooling_for_Scene_Parsing_CVPR_2020_paper.pdf)
 - Rotate to attend: Convolutional triplet attention module, (WACV 2021) [pdf](https://arxiv.org/pdf/2010.03045.pdf)
 - Simam: A simple, parameter-free attention module for convolutional neural networks (ICML 2021) [pdf](http://proceedings.mlr.press/v139/yang21o/yang21o.pdf)
