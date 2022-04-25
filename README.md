@@ -101,4 +101,4 @@ If it is helpful for your work, please cite this paper:
 - **(IMPLEMENTED)Improving convolutional networks with self-calibrated convolutions**(CVPR 2020) [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Improving_Convolutional_Networks_With_Self-Calibrated_Convolutions_CVPR_2020_paper.pdf)
 - Strip Pooling: Rethinking spatial pooling for scene parsing (CVPR 2020) [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hou_Strip_Pooling_Rethinking_Spatial_Pooling_for_Scene_Parsing_CVPR_2020_paper.pdf)
 - Rotate to attend: Convolutional triplet attention module, (WACV 2021) [pdf](https://arxiv.org/pdf/2010.03045.pdf)
-- Simam: A simple, parameter-free attention module for convolutional neural networks (ICML 2021) [pdf](http://proceedings.mlr.press/v139/yang21o/yang21o.pdf)
+- **(IMPLEMENTED)Simam: A simple, parameter-free attention module for convolutional neural networks (ICML 2021)** [pdf](http://proceedings.mlr.press/v139/yang21o/yang21o.pdf)
