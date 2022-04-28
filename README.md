@@ -92,7 +92,7 @@ If it is helpful for your work, please cite this paper:
 
 ## ChannelSpatial attention
 
-- **Residual attention network for image classification(Attention Network)** (CVPR 2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Residual_Attention_Network_CVPR_2017_paper.pdf) 🔥
+- **Residual attention network for image classification(ResAttNet not ResNet)** (CVPR 2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Residual_Attention_Network_CVPR_2017_paper.pdf) 🔥
 - **SCA-CNN: spatial and channel-wise attention in convolutional networks for image captioning** (CVPR 2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_SCA-CNN_Spatial_and_CVPR_2017_paper.pdf) 🔥
 - **CBAM: convolutional block attention module** (ECCV 2018) [pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)  🔥
 - Recalibrating fully convolutional networks with spatial and channel “squeeze and excitation” blocks (TMI 2018) [pdf](https://arxiv.org/pdf/1808.08127.pdf)
